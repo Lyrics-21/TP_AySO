@@ -1,0 +1,39 @@
+accessdb (8)         - dumps the content of a man-db database in a human readable format
+arptables-nft-save (8) - dump arptables rules to stdout (nft-based)
+cache_dump (8)       - dump cache metadata from device or file to standard output.
+core (5)             - core dump file
+dumpe2fs (8)         - dump ext2/ext3/ext4 file system information
+dumpkeys (1)         - dump keyboard translation tables
+era_dump (8)         - dump era metadata from device or file to standard output.
+hexdump (1)          - display file contents in hexadecimal, decimal, octal, or ascii
+ip6tables-save (8)   - dump iptables rules
+iptables-save (8)    - dump iptables rules
+keymaps (5)          - keyboard table descriptions for loadkeys and dumpkeys
+lvm-dumpconfig (8)   - Display and manipulate configuration information
+lvmdump (8)          - create lvm2 information dumps for diagnostic purposes
+ntfsinfo (8)         - dump a file's attributes
+objdump (1)          - display information from object files
+od (1)               - dump files in octal and other formats
+scr_dump (5)         - format of curses screen-dumps.
+screendump (1)       - dump the contents of a virtual console to stdout
+tc (8)               - show / manipulate traffic control settings
+tc-basic (8)         - basic traffic control filter
+tc-cgroup (8)        - control group based traffic control filter
+tc-flow (8)          - flow based traffic control filter
+tc-flower (8)        - flow based traffic control filter
+tc-fq (8)            - Fair Queue traffic policing
+tc-fw (8)            - fwmark traffic control filter
+tc-matchall (8)      - traffic control filter that matches every packet
+tc-route (8)         - route traffic control filter
+tc-tcindex (8)       - traffic control index filter
+tc-u32 (8)           - universal 32bit traffic control filter
+tcpdump (8)          - dump traffic on a network
+thin_dump (8)        - dump thin provisioning metadata from device or file to standard output.
+usbhid-dump (8)      - dump USB HID device report descriptors and streams
+utmpdump (1)         - dump UTMP and WTMP files in raw format
+vmware-xferlogs (1)  - dump vm-support output to vmx logfile
+x86_64-linux-gnu-objdump (1) - display information from object files
+xfs_mdrestore (8)    - restores an XFS metadump image to a filesystem image
+xfs_metadump (8)     - copy XFS filesystem metadata to a file
+xxd (1)              - make a hexdump or do the reverse.
+zdump (8)            - timezone dumper
