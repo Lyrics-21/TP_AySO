@@ -1,0 +1,199 @@
+cd
+ssh-keygen
+cat $HOME/.ssh/*.pub
+cd
+ll
+cd repogit/
+ll
+cd
+mkdir repogit_2
+cd repogit_2/
+ll
+git clone git@github.com:Lyrics-21/TP_AySO.git
+ll
+cd TP_AySO/
+ll
+cat /etc/os-release
+pwd
+man grep
+grep -i Home_url /etc/os-release
+whoami
+echo "Usuario=$(whoami)" > datos_usuarios.txt
+ll
+cat datos_usuarios.txt 
+git add .
+git config --global user.email "elianviana8@gmail.com"
+git config --global user.name "Lyrics-21"
+git commit -m "ADD: agregado 1er ejercicio sobre datos_usuarios.txt"
+git status
+cpu-info
+sudo apt install cpu-info
+cpu-info
+sudo apt install cpuinfo
+cpu-info
+sudo cpuinfo
+sudo cpu-info
+cpu-info
+sudo apt install cpuinfo
+sudo apt install cpu-info
+sudo cpuinfo
+sudo cpu-info
+cpu-info
+cpuinfo
+cpu-info
+sudo cpu-info
+sudo apt install cpu-info
+cd
+sudo apt install cpu-info
+ll
+cd repogit_2/
+ll
+cd TP_AySO/
+ññ
+ll
+sudo cat /proc/cpuinfo
+sudo cat /proc/cpuinfo | grep "model name"
+sudo head -1 cat /proc/cpuinfo | grep "model name"
+sudo cat /proc/cpuinfo | grep "model name" | head -1
+sudo head -1 /proc/cpuinfo | grep "model name" >> datos_usuarios.txt 
+sudo head /proc/cpuinfo | grep "model name" >> datos_usuarios.txt 
+vim datos_usuarios.txt 
+sudo head /proc/cpuinfo | grep "model name" 
+sudo head /proc/cpuinfo | grep "model name" >> datos_usuarios.txt 
+
+git add .
+git commit -m "feat: Añadiendo información de CPU”
+
+
+
+git commit -m "feat: Añadiendo información de CPU”
+git commit -m "feat: Añadiendo información de CPU”
+git commit -m "feat: Añadiendo información de CPU”
+vim datos_usuarios.txt 
+git status
+git add .
+git commit -m "feat: Añadiendo informacion CPU"
+grep -v nologin /etc/passwd
+hed -v nologin /etc/passwd
+head -v nologin /etc/passwd
+grep -v nologin /etc/passwd
+man sort
+grep -v nologin /etc/passwd | sort -k
+grep -v nologin /etc/passwd | sort --k
+grep -v nologin /etc/passwd
+sort -v nologin /etc/passwd > lista_ordenada.txt
+ll
+cat lista_ordenada.txt 
+grep -v nologin /etc/passwd > lista_ordenada.txt | sort lista_ordenada.txt  -k7 > lista_ordenada.txt
+grep -v nologin /etc/passwd
+grep -v nologin /etc/passwd > lista_ordenada.txt
+cat lista_ordenada.txt 
+git add .
+git commit -m "ADD: Listado de usuarios ordenada"
+ll
+vim datos_usuarios.txt 
+vim lista_ordenada.txt 
+sort -k7 lista_ordenada.txt > lista_ordenada_tmp.txt
+vim lista_ordenada.txt 
+vim lista_ordenada_tmp.txt 
+cat lista_ordenada_tmp.txt 
+cat lista_ordenada
+cat lista_ordenada.txt
+vim lista_ordenada.txt 
+ll
+tm lista_ordenada_tmp.txt
+rm lista_ordenada_tmp.txt
+ll
+sudo apropos dump traffic
+sudo apropos dump traffic >> comando_dump_net
+cat comando_dump_net 
+git add .
+git commit -m "ADD: Comando para Capturar y analizar trafico de red"
+git add
+git push
+ll
+cd repogit_2/
+ll
+cd TP_AySO/
+ll
+cat lista_ordenada.txt 
+cat datos_usuarios.txt 
+cat comando_dump_net 
+ll
+cat <<FIN >> README.md
+Alumno: Elian Viana
+Division: 312
+Turno: Tarde
+FIN
+
+car README.md 
+cat README.md 
+vim README.md 
+cat README.md 
+git add README.md 
+git commit -m "docs: Agregado de info alumno al README.md"
+git push
+history
+history -a
+cd ..
+ll
+cd ~/TP_AySO
+cd $/TP_AySO
+cd ~/TP_AySO
+cd ~TP_AySO
+cd~TP_AySO
+~/TP_AySO
+cp ~/.bash_history ./Historial_comandos_<Elian-Viana>.txt
+cd repogit_2/
+cd TP_AySO/
+ll
+cp ~/.bash_history ./Historial_comandos_<Elian-Viana>.txt
+cd ..
+cd $TP_AySO
+cd ~TP_AySO
+cd ~TP_AySO/
+cd ~/TP_AySO/
+cd $/TP_AySO
+cd $TP_AySO
+ll
+cd repogit_2
+cd $TP_AySO
+cd repogit_2
+cd TP_AySO
+cd
+cp .bash_history ./Historial_comandos_Elian.txt
+cd repogit_2/
+cd TP_AySO/
+cp .bash_history ./Historial_comandos_Elian.txt
+ls -la
+ll
+ll -la
+ls -la
+cd
+ls -la
+cat Historial_comandos_Elian.txt 
+add .
+git add .
+git init
+git status
+git add .
+git commit -m ""ADD: Historial comandos Elian Viana""
+git add Historial_comandos_Elian.txt
+git commit -m "ADD: Historial comandos Elian Viana"
+git push
+git status
+git init
+git status
+cd
+git status
+git init
+ll
+cat Historial_comandos_Elian.txt
+git add .
+git commit -m "ADD: Historial comandos Elian Viana"
+git push
+git remote add origin https://github.com/Lyrics-21/TP_AySO.git
+git commit -m "ADD: Historial comandos Elian Viana"
+git push
+git push -u origin main
+git push -u origin master
